@@ -1,0 +1,40 @@
+<!DOCTYPE HTML>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8">
+	<title></title>
+	
+	<link rel="stylesheet" href="stil.css">
+	
+</head>
+<body>
+	
+	<table border="1px">
+		<thead>
+			<tr>
+				<th>No</th>
+				<th>Marka</th>
+				<th>Model</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>1</td>
+				<td>BMW</td>
+				<td>520</td>
+			</tr>
+			<tr>
+				<td>2</td>
+				<td>Audi</td>
+				<td>A5</td>
+			</tr>
+			<tr>
+				<td>3</td>
+				<td>TOFAÞ</td>
+				<td>Þahin</td>
+			</tr>
+		</tbody>
+	</table>
+	
+</body>
+</html>

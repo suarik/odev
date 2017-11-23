@@ -1,0 +1,40 @@
+<!DOCTYPE HTML>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8">
+	<title>Form Elemanlarý</title>
+	<link rel="stylesheet" href="stil.css">
+</head>
+<body>
+	<div class="uye">
+		<form>
+			<h1>Üye Kayýt Formu</h1>
+			<label>Ýsminiz :</label><input type="text" name="isim" value="Furkan">
+			<label>Soyisim :</label><input type="text" name="soyisim">
+			<label>E-posta :</label><input type="mail" name="mail">
+			<label>Þifreniz:</label><input type="password" name="pass">
+			<label>TC :</label><input type="number" name="tc">
+			<fieldset>
+				<legend>Hobileriniz</legend>
+				<input type="checkbox"  name="hobi"><label>Spor</label>
+				<input type="checkbox"  name="hobi"><label>Web Tasarým</label>
+				<input type="checkbox"  name="hobi"><label>Edebiyat</label>
+			</fieldset>
+			<fieldset>
+				<legend>Cinsiyet</legend>
+				<input type="radio" name="cins" checked="chekhed"><label>Erkek</label>
+				<input type="radio" name="cins"><label>Bayan</label>
+			</fieldset>
+			<label>Þehir</label>
+			<select>
+				<option>Ýstanbul</option>
+				<option>Ankara</option>
+			</select>
+			
+			<textarea></textarea>
+			
+			<input type="submit" value="Gönder">
+		</form>
+	</div>
+</body>
+</html>

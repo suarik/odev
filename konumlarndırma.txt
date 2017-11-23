@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Temel web sayfasý ve FLOAT</title>
+		<link rel="stylesheet" href="stil.css" />
+		<link rel="stylesheet" href=""/>
+	</head>
+	<body>
+		<div id="genel">
+			<header>Burasý Header</header>
+			<div class="orta">
+				<!-- Sol Kýsým -->
+				<div class="sol">
+					<div class="kutu">
+						<h3>Ürün Baþlýðý</h1>
+						<p>Lorem Ipsum, dizgi ve baský endüstrisinde kullanýlan mýgýr metinlerdir. Lorem Ipsum, adý bilinmeyen bir matbaacýnýn bir hurufat numune kitabý oluþturmak üzere bir yazý galerisini alarak.</p>
+						<a href="#">Detaya Git</a>
+					</div>
+					<div class="kutu">
+						<h3>Ürün Baþlýðý</h1>
+						<p>22Lorem Ipsum, dizgi ve baský endüstrisinde kullanýlan mýgýr metinlerdir. Lorem Ipsum, adý bilinmeyen bir matbaacýnýn bir hurufat numune kitabý oluþturmak üzere bir yazý galerisini alarak.</p>
+						<a href="#">Detaya Git</a>
+					</div>
+					<div class="kutu">
+						<h3>Ürün Baþlýðý</h1>
+						<p>333Lorem Ipsum, dizgi ve baský endüstrisinde kullanýlan mýgýr metinlerdir. Lorem Ipsum, adý bilinmeyen bir matbaacýnýn bir hurufat numune kitabý oluþturmak üzere bir yazý galerisini alarak.</p>
+						<a href="#">Detaya Git</a>
+					</div>
+					<div class="kutu">
+						<h3>Ürün Baþlýðý</h1>
+						<p>22Lorem Ipsum, dizgi ve baský endüstrisinde kullanýlan mýgýr metinlerdir. Lorem Ipsum, adý bilinmeyen bir matbaacýnýn bir hurufat numune kitabý oluþturmak üzere bir yazý galerisini alarak.</p>
+						<a href="#">Detaya Git</a>
+					</div>
+					<div class="kutu">
+						<h3>Ürün Baþlýðý</h1>
+						<p>333Lorem Ipsum, dizgi ve baský endüstrisinde kullanýlan mýgýr metinlerdir. Lorem Ipsum, adý bilinmeyen bir matbaacýnýn bir hurufat numune kitabý oluþturmak üzere bir yazý galerisini alarak.</p>
+						<a href="#">Detaya Git</a>
+					</div>
+					<div class="kutu">
+						<h3>Ürün Baþlýðý</h1>
+						<p>Lorem Ipsum, dizgi ve baský endüstrisinde kullanýlan mýgýr metinlerdir. Lorem Ipsum, adý bilinmeyen bir matbaacýnýn bir hurufat numune kitabý oluþturmak üzere bir yazý galerisini alarak.</p>
+						<a href="#">Detaya Git</a>
+					</div>
+					<div class="kutu">
+						<h3>Ürün Baþlýðý</h1>
+						<p>22Lorem Ipsum, dizgi ve baský endüstrisinde kullanýlan mýgýr metinlerdir. Lorem Ipsum, adý bilinmeyen bir matbaacýnýn bir hurufat numune kitabý oluþturmak üzere bir yazý galerisini alarak.</p>
+						<a href="#">Detaya Git</a>
+					</div>
+					<div class="kutu">
+						<h3>Ürün Baþlýðý</h1>
+						<p>333Lorem Ipsum, dizgi ve baský endüstrisinde kullanýlan mýgýr metinlerdir. Lorem Ipsum, adý bilinmeyen bir matbaacýnýn bir hurufat numune kitabý oluþturmak üzere bir yazý galerisini alarak.</p>
+						<a href="#">Detaya Git</a>
+					</div>
+					<div class="kutu">
+						<h3>Ürün Baþlýðý</h1>
+						<p>22Lorem Ipsum, dizgi ve baský endüstrisinde kullanýlan mýgýr metinlerdir. Lorem Ipsum, adý bilinmeyen bir matbaacýnýn bir hurufat numune kitabý oluþturmak üzere bir yazý galerisini alarak.</p>
+						<a href="#">Detaya Git</a>
+					</div>
+					<div class="kutu">
+						<h3>Ürün Baþlýðý</h1>
+						<p>333Lorem Ipsum, dizgi ve baský endüstrisinde kullanýlan mýgýr metinlerdir. Lorem Ipsum, adý bilinmeyen bir matbaacýnýn bir hurufat numune kitabý oluþturmak üzere bir yazý galerisini alarak.</p>
+						<a href="#">Detaya Git</a>
+					</div>
+				</div>
+				
+				<!-- Sað Kýsým -->
+				<div class="sag">
+					<!-- UL - LÝ yapýsý -->
+					<ul>
+						<li><a href="#">Anasayfa</a></li>
+						<li><a href="#">Hakkýmýzda</a></li>
+						<li><a href="#">Referanslar</a></li>
+						<li><a href="#">Ýletiþim</a></li>
+					</ul>
+				</div>
+				
+				<div class="temizle"></div>
+			</div>
+			<footer>Burasý Footer</footer>
+		</div>
+	</body>
+</html>

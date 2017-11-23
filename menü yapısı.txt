@@ -1,0 +1,24 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title></title>
+	
+	<link rel="stylesheet" href="stil.css"/>
+</head>
+<body>
+	
+	<!-- Menü Yapısı -->
+	<nav>
+		<ul>
+			<li><a href="#">Menü1</a></li>
+			<li><a href="#">Menü2</a></li>
+			<li><a href="#">Menü3</a></li>
+			<li><a href="#">Menü4</a></li>
+			<li><a href="#">Menü5</a></li>
+			
+			<div class="temizle"></div>
+		</ul>
+	</nav>
+</body>
+</html>
